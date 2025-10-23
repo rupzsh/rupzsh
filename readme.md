@@ -1,6 +1,6 @@
 ## Hey , I'm Rupesh!
 
-I'm a self-taught developer focused on backend development, Python, and exploring real-world applications of ML. Currently, I’m actively working on several private projects that will be public soon. Thanks for stopping by!
+I'm a self-taught developer focused on backend development, Python, and exploring real-world applications of ML. Currently, I’m actively working on several projects that will be open-sourced soon. Thanks for stopping by!
 
 <p align="center"> <img width="88.5%" src="https://github-readme-activity-graph.vercel.app/graph?username=okrupesh&theme=tokyo-night"> </p>
 
